@@ -1,0 +1,3 @@
+"CONDITION CODE","CONDITION DESCRIPTION","USAGE DEFINITION","SCHEMA_NUMBER","TYPE","PROVENANCE","LINKS","CITATIONS","NUMBER OF CODES","ALLCODES"
+"CKD","Chronic kidney disease","The best (highest value) of the last 2 eGFR readings is < 60 mL/min",147,"MEDCODES","We simplified this method from that developed by: 10.1016/j.kint.2016.04.010",,"Simplified from :
+McDonald H.I. et al. Methodological challenges when carrying out research on CKD and AKI using routine electronic health records. Kidney International, 5 (2016), pp. 943-9.",3,"19747;23250;30898"

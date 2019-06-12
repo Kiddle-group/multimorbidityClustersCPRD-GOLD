@@ -1,0 +1,6 @@
+"CONDITION CODE","CONDITION DESCRIPTION","USAGE DEFINITION","SCHEMA_NUMBER","TYPE","PROVENANCE","LINKS","CITATIONS","NUMBER OF CODES","ALLCODES"
+"COP","COPD","Read code ever recorded",151,"MEDCODES","CPRD Cambridge created, based on the QOF2012 list.  Likely to be sensitive as broad range of codes.","https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/1/;
+https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/","Kontopantelis E, Springate D, Reeves D, Ashcroft DM, Valderas JM, Doran T. Withdrawing performance indicators: retrospective analysis of general practice performance under UK Quality and Outcomes Framework. BMJ 2014;348:g330.;
+
+QOF business rules 2012 v24.0
+http://www.pcc-cic.org.uk/article/qof-business-rules-v240",54,"794;998;1001;1446;3243;5710;5798;5909;7884;9876;10802;10863;10980;11150;12166;14798;15157;15626;16410;16717;21061;23492;23618;24248;25603;26125;26306;27819;33450;37247;37959;40159;40788;44525;45089;46578;56860;59263;60188;61118;61513;63479;66043;67040;68066;68662;70787;92955;93568;96931;99536;103494;103733;104608"

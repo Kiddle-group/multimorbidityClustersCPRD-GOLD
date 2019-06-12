@@ -1,0 +1,4 @@
+"CONDITION CODE","CONDITION DESCRIPTION","USAGE DEFINITION","SCHEMA_NUMBER","TYPE","PROVENANCE","LINKS","CITATIONS","NUMBER OF CODES","ALLCODES"
+"ATR","Atrial fibrillation","Read code ever recorded",143,"MEDCODES","QOF 2012","https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/1/
+QOF business rules 2012 v24.0
+http://www.pcc-cic.org.uk/article/qof-business-rules-v240",,8,"1268;1664;1757;2212;23437;35127;96076;96277"
